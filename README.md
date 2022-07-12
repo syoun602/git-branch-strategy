@@ -5,7 +5,7 @@
 - 밧드
 - 아스피
 - 필즈
-- 포키
+- [포키](https://github.com/YJGwon/git-branch-strategy/blob/feature/forky/forky.md)
 - 쿤
 - 우디
 
