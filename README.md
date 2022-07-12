@@ -1,7 +1,7 @@
 # git-branch-strategy
 
 ## 모라고라(Moragora)
-- 썬
+- [썬](sun.md)
 - 밧드
 - 아스피
 - 필즈
