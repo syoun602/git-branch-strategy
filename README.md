@@ -3,7 +3,7 @@
 ## 모라고라(Moragora)
 
 - [썬](sun.md)
-- 밧드
+- [밧드](kamwoo.md)
 - [아스피](Azpi.md)
 - [필즈](Philz.md)
 - [포키](forky.md)
